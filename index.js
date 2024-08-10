@@ -38,6 +38,6 @@ function removeLastCat() {
 
 // Define the 'removeFirstCat()' function
 function removeFirstCat() {
-    return cats.slice(1);
+    return cats.slice(1)
 }
 
